@@ -1,0 +1,33 @@
+# Akan Name Genarator
+
+## Project Description
+
+The Akan Name Generator is a simple web application that allows users to input their date of birth and gender to determine the dat of the week thwy were born and their corresponding Akan names originate from Ghana and are based on the day of the week one is born and their gender.
+
+##Author
+
+- **Name:** [Newton Kisia]
+- **Github:** [newton-smarter]
+- **Email:** [newtonkisia2004@gmail.com]
+
+##Setup Instructions
+
+1. Clone or download the repository.
+2. Ensure all files ('index.html','style.css',and 'script.js')are in the same project folder.
+3. Open 'index.html' in any modern web browser.
+4. Enter your date of birth and select your gender.
+5. Click the submit button to see your Akan name.
+   
+## Technologies Used 
+
+-HTML
+-CSS
+-JAVASCRIPT
+
+##License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+##Copyright
+
+2025 [Your Full Name]. all rights reserved.
